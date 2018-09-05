@@ -3,6 +3,8 @@
 ### 创建本项目的初衷是为了解决 Mybatis 无法像 hibernate 一样自动建表
 https://github.com/newShiJ/creat-table-Demo 是如何使用该工具的一个使用demo
 
+master 分支是为了测试代码功能的    
+jar 分支是真正打包的代码，删除了一些无关代码
 
 ### 不足之处
 *	目前只支持 Mysql 数据库
